@@ -1,0 +1,93 @@
+str,en,th
+fill_form,Let's get started by filling out the form below.,เริ่มต้นโดยการกรอกแบบฟอร์มด้านล่างนี้
+username,Username,ชื่อผู้ใช้งาน
+password,Password,รหัสผ่าน
+sign_in,Sign In,เข้าสู่ระบบ
+choose_option_dropdown,Please choose an option from the dropdown,Please choose an option from the dropdown
+field_is_required,Field is required,Field is required
+sign_out,Sign out,Sign out
+app_for_you,App for you,App for you
+ats_e_leave,ATS E-leave,ATS E-leave
+leave_management_for_staff,Leave management for staff,Leave management for staff
+ats_connect,ATS Connect,ATS Connect
+lets_connect_together,Let's Connect Together,Let's Connect Together
+get_app,GET,GET
+session_expired,Session Expired,Session Expired
+you_session_already_expired,Your session already expired. Please try to sign out and login again.,Your session already expired. Please try to sign out and login again.
+please_login_via_mobile,Please  login via mobile device to download ATS appliaction,Please  login via mobile device to download ATS appliaction
+this_page_need_user_to_login,This page need user to login on mobile device to download ATS application both Android and iOS ,This page need user to login on mobile device to download ATS application both Android and iOS 
+home,Home,Home
+add_new_user,Add New User,Add New User
+first_lastname,First Lastname,First Lastname
+email,Email,Email
+hinttext_company,Company...,Company...
+hinttext_role,Role...,Role...
+hinttext_status,Status...,Status...
+cancel,Cancel,Cancel
+save,Save,Save
+logout,Logout,Logout
+platform_navigation,Platform Navigation,Platform Navigation
+users,Users,Users
+project,Project,Project
+light_mode,Light Mode,Light Mode
+dark_mode,Dark Mode,Dark Mode
+active,Active,Active
+name,Name,Name
+platform,Platform,Platform
+lastest_version,Lastest Version,Lastest Version
+type,Type,Type
+status,Status,Status
+sit_e_leave,SIT-E-leave,SIT-E-leave
+android,Android,Android
+private,Private,Private
+all,All,All
+search_all_project,Search all project...,Search all project...
+below_are_a_list_of_project,Below are a list of project,Below are a list of project
+add_new_project,Add  new project,Add  new project
+generate_password,Generate Password,Generate Password
+upload_plist,Upload plist,Upload plist
+platform_dot,Platform...,Platform...
+public,Public,Public
+type_dot,Type...,Type...
+inactive,Inactive,Inactive
+status_dot,Status...,Status...
+info_plist,info.plist,info.plist
+upload_ipa,Upload ipa,Upload ipa
+eleave_ipa,eleave.ipa,eleave.ipa
+max_size,(Max size 256x256),(Max size 256x256)
+upload_icon,Upload Icon,Upload Icon
+version,Version,Version
+description,Description,Description
+project_name,Project Name,Project Name
+add_new_project_page,Add New Project Page,Add New Project Page
+update_project_page,Manage Project Page,Manage Project Page
+member_title,Members,Members
+update,Update,Update
+delete,Delete,Delete
+member_subtitle,Below are a list of members of...,Below are a list of members of...
+search_all_users,Search all users...,Search all users...
+confirm_del_user,Confirm delete this user?,Confirm delete this user?
+manage_user,Manage User,Manage User
+email_format_warning,Please check email format.,Please check email format.
+password_length_warning,Password should be at least 6,Password should be at least 6
+field_empty_warning,Please fill in all fields.,Please fill in all fields.
+user_created,User has been created.,User has been created.
+email_exist,Email already exists.,Email already exists.
+user_updated,User has been updated.,User has been updated.
+something_wrong,Something went wrong...,Something went wrong...
+data_load_fail,Failed to load data!,Failed to load data!
+user_deleted,User has been deleted.,User has been deleted.
+confirm_del_project,Confirm delete this project?,Confirm delete this project?
+choose_apk_file,Choose .apk file,Choose .apk file
+choose_ipa_file,Choose .ipa file,Choose .ipa file
+choose_plist_file,Choose .plist file,Choose .plist file
+add_project_success,Add new project successful!,Add new project successful!
+add_project_fail,Failed to add project.,Failed to add project.
+project_updated,Project has been updated.,Project has been updated.
+please_select_icon,Please select project's icon file.,Please select project's icon file.
+please_select_platform,Please select project's platform.,Please select project's platform.
+please_select_apk,Please select .apk file.,Please select .apk file.
+please_select_ipa,Please select .ipa file.,Please select .ipa file.
+please_select_plist,Please select .plist file.,Please select .plist file.
+please_select_project_type,Please select project's type.,Please select project's type.
+project_deleted,Project has been deleted.,Project has been deleted.
